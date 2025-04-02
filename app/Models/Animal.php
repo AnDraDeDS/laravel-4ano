@@ -10,5 +10,5 @@
      use HasFactory;
  
      protected $table = 'animal';
-     protected $fillable = ['nome', 'cor', 'peso', 'idade', 'especie', 'raca'];
+     protected $fillable = ['nome', 'cor', 'peso', 'idade', 'especie', 'raca']  ;
  }
